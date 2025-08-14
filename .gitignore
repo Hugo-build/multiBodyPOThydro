@@ -1,0 +1,20 @@
+# WAMIT output files
+*.log
+*.out
+*.1
+*.2
+*.3
+*.4
+*.5p
+*.FRC
+*.POT
+*.pnl
+wamitlog.txt
+
+# MATLAB temporary files
+*.asv
+*.m~
+
+# System files
+.DS_Store
+.vscode/
